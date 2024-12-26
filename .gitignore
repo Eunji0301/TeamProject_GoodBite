@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/eclipse,maven,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=eclipse,maven,java
 
+!/TeamProject_GoodBite/target/m2e-wtp/web-resources/META-INF/maven/com.HelloHealthy/myapp/pom.properties
+
+
 ### Eclipse ###
 .metadata
 bin/
